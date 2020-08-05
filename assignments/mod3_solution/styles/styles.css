@@ -50,3 +50,40 @@ input[type="text"] {
     transform: rotate(360deg);
   }
 }
+/*
+table{
+  width:100%;
+  border:1px solid #ccc;
+}
+
+td{
+  padding:10px;
+  font-size:1.4rem;
+}
+
+tr button{
+  border:0;
+  color:red;
+  border-radius:50%;
+}
+
+tr:nth-child(even){
+  background-color:#ccc;
+}*/
+
+/*
+tr:nth-child(even) button{
+  background-color:#fff;
+}*/
+
+td button{
+  color:darkred;
+  font-size:40px;
+}
+
+.form-group button{
+  margin-left:10px;
+}
+.label{
+  padding:10px;
+}
